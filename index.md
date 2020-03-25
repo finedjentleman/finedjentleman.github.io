@@ -1,6 +1,12 @@
 # Hello World!
 
 # My Projects
+<ul>
+<li><a href="https://finedjentleman.github.io/Helloworld/">Hello
+World Project</a></li>
+<li><a href="https://github.com/thewecanzone/
+GitHubForDummiesReaders">GitHub For Dummies Repo</a></li>
+</ul>
 
 # My Interests
 I'm interested in music and coding
